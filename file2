@@ -1,2 +1,7 @@
 Changing contents of file 2
+<<<<<<< HEAD
 Making changes in file2 to use rebase
+||||||| 32ec2af
+=======
+Making changes in file2
+>>>>>>> main

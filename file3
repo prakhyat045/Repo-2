@@ -1,2 +1,8 @@
 Let's test pull command
+<<<<<<< HEAD
 Lets begin Merging
+||||||| 32ec2af
+=======
+Adding some new data to test fetch command.
+Appending changes in file3 at branch origin/main from terminal.
+>>>>>>> main
